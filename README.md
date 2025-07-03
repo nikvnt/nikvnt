@@ -2,7 +2,7 @@
 
 ---
 
-My background includes **TypeScript**, **Node.js**, **Next.js**, and **Tailwind CSS** for web development, alongside with **Java Spring** for backend solutions. I'm also familiar with **Lua**, which I've used in various scripting contexts, most of which were related to game development.
+My background includes **TypeScript**, **Node.js**, **Next.js**, and **Tailwind CSS** for web development, alongside with **Java Spring**. I'm also familiar with **Lua**, which I've used in various scripting contexts, most of which were related to game development.
 
 My current focus has been on strengthening my software engineering capabilities through a deeper dive into Java Spring for backend solutions, and advancing my game development skills with Godot and GDScript through personal projects.
 
